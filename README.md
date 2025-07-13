@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kieugiathinh/kieugiathinh-snake/main/dist/github-snake.gif" alt="GitHub Contributions Snake Animation">
-</p>
+![github contribution snake](https://github.com/kieugiathinh/snk/blob/output/github-snake.gif?raw=true)
