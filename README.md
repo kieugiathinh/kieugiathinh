@@ -1,2 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arima&pause=1000&color=F031F7&background=76FFCC00&center=true&width=435&lines=Whatever+the+mind+can+conceive+and+believe%2C+it+can+achieve)](https://git.io/typing-svg)
-![...](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWtsdTEybndhaWxwN2g2emx0Mmp5eDA2MXVpZTA5Z3I2cmNiMWFldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjAcxImn74uoDYVxFl/giphy.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ARIma&pause=1000&color=FF4FE2&background=EF88FF00&center=true&width=435&lines=Ng%E1%BB%A7+ngon+m%C6%A1+%C4%91%E1%BA%B9p+nh%C3%B3o%F0%9F%98%B4)](https://git.io/typing-svg)
+![](http://i.imgur.com/8cXuErV.gif)
